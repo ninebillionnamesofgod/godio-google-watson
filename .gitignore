@@ -1,0 +1,13 @@
+.json
+conf.yaml
+audio/*
+!audio/.gitkeep
+google/*
+!google/.gitkeep
+video/*
+!video/.gitkeep
+watson/*
+!watson/.gitkeep
+watson-transcripts/*
+!watson-transcripts/.gitkeep
+/.json

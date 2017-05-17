@@ -1,0 +1,4 @@
+username: watson-username
+password: watson-password
+bucket: google-storage-bucket-name
+keyfile: google-security-account-json-file-path
